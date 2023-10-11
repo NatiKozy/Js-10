@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+
+.img_container{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 600px;
+    height: 400px;
+}
+
+.btn_container{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 20px;
+}
+
+.btn{
+    width: 150px;
+    height: 30px;
+    background: #000000;
+    color: #f0f8ff;
+    border-radius: 10px;
+}
